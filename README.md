@@ -1,2 +1,2 @@
 # hello-world
-Sjay Pogi
+im newbie
